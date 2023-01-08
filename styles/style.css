@@ -95,10 +95,27 @@ main {
     margin-bottom: 30px;
     font-weight: 700;
     font-size: 35px;
+    margin-bottom: 30px;
 }
 
 .section-description {
     color: #757575;
     font-size: 18px;
     margin-bottom: 30px;
+}
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-title {
+    font-weight: 500;
+    font-size: 20px;
+color: black;}
+.info-description{
+    color: #757575;
+    font-weight: 700;
+    font-size: 20px;
+
 }
